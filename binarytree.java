@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 // Clase Nodo
 class Nodo {
     int valor;
@@ -128,7 +130,6 @@ class ArbolBinario {
 }
 
 // Clase principal
-import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
